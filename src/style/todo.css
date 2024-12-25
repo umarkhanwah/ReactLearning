@@ -1,0 +1,23 @@
+.todo > div{
+    background: rgba(211, 211, 211, 0.829);
+    border-radius: 20px;
+    padding: 10px 20px;
+    margin: 10px  0;
+    /* display: flex; */
+    font-size: 20px;
+    /* justify-content: space-between; */
+    
+    cursor: pointer;
+    font-weight: bold;
+    
+}
+
+.todo button{
+    color: red;
+    float: inline-end;
+    font-weight: bold;
+    background: transparent;
+    border:none;
+    
+    
+}
